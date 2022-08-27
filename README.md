@@ -1,4 +1,4 @@
 Hello there, I’m Yam Yammington.
-I make things in Python, my main language. I also do web development, using the Flask framework. At the moment I am working on 2 of my own sites, in private repositories.
+I make things in Python, my main language, and JavaScript. I also do web development, using the Flask framework.
 
 Thanks for stopping by.
