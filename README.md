@@ -1,4 +1,11 @@
-Hello there, I’m Yam Yammington.
-I make things in Python, my main language, and JavaScript. I also do web development, using the Flask framework.
+Hello there, I’m Yammington, I make stuff.
+
+These are the languages I know and program in:
+- Python
+- Javascript
+- HTML/CSS
+- PHP
+
+I speak Dutch and English.
 
 Thanks for stopping by.
